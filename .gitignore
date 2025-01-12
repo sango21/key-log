@@ -1,0 +1,11 @@
+# Ignore .env and build files
+
+.env
+config.json
+*.log
+*.txt
+.venv
+dist/
+build/
+*.spec
+__pycache__/
