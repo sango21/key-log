@@ -3,7 +3,7 @@
 .env
 config.json
 *.log
-*.txt
+key_log.txt
 .venv
 dist/
 build/
